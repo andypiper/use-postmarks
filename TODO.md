@@ -15,8 +15,10 @@
 - reorg content
 
 - video demo
-- how to contribute
+- how to contribute to postmarks
 - user guide
 - admin and customisation guide
 - favicon
 - improve the theme
+- repo social card setting
+- contributing.md for this repo
