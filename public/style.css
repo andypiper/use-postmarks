@@ -1,0 +1,52 @@
+/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+
+:root {
+  --bs-body-bg: var(--bs-gray-100);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  src: url('/PublicSans-VariableFont_wght.woff2');
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style: italic;
+  src: url('/PublicSans-Italic-VariableFont_wght.woff2');
+}
+
+
+body {
+  font-family: Public Sans, helvetica, arial, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  color: rebeccapurple;
+}
+
+p, li {
+  max-width: 600px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.center {
+    margin: auto;
+    max-width: 800px;
+    padding: 25px;
+} 
+
+.glitchButton {
+  float:Right;
+}
