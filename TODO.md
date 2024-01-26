@@ -7,4 +7,16 @@
   - add link to tools
     - browser extension
     - [Apple Shortcut](https://routinehub.co/shortcut/16547/)
-    
+
+- page meta tags
+- json-ld
+- share button
+
+- reorg content
+
+- video demo
+- how to contribute
+- user guide
+- admin and customisation guide
+- favicon
+- improve the theme
